@@ -3,3 +3,19 @@
     top: 0;
     padding: 30px 20px;
 }
+
+.btn-clear {
+    width: 160px;
+    border: 0;
+    background-color: red;
+    color: white;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn-clear:hover {
+    background-color: rgb(244, 157, 157);
+    color: #000;
+}

@@ -21,3 +21,19 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.btn-review-order {
+    width: 160px;
+    border: 0;
+    background-color: goldenrod;
+    color: white;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn-review-order:hover {
+    background-color: rgb(124, 197, 15);
+    color: #000;
+}
